@@ -1,4 +1,0 @@
-to-openshift
-============
-
-projet OS
